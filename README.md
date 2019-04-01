@@ -14,3 +14,17 @@ int main(int argc, char * argv[ ]){
 
 char * argv[ ] == char ** argv
 
+comando: encontrar -c cadena
+         encontrar -s subcadena
+         
+"El programa devuelve las veces que se encuentra la subcadena [-s] dentro de cadena [-c]
+
+Ejemplo:
+
+encontrar -s la -c lalala --> corecto
+encontrar -c lalala -s la --> correcto tambien
+
+Incorrectos
+
+-c lalala -s la
+encontrar -c lalala -c la
