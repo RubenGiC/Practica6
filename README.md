@@ -28,3 +28,8 @@ Incorrectos
 
 -c lalala -s la
 encontrar -c lalala -c la
+
+
+comando en netbeans:
+  - ejecutable esta en (prueba1/dist/Debug/GNU-Linux) o (prueba1/build/Debug/GNU-Linux)
+  debera de aparecer un archivo sin formato con el mismo nombre del proyecto
